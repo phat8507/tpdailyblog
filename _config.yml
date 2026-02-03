@@ -15,7 +15,7 @@ timezone: Asia/Ho_Chi_Minh
 url: "https://phat8507.github.io"
 baseurl: "/tpdailyblog"
 
-skin: midnight
+skin: daylight
 
 
 paginate: 10

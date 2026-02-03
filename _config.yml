@@ -1,4 +1,27 @@
+# --- Theme ---
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
 
 remote_theme: ngzhio/jekyll-theme-hamilton
+
+# --- Site info ---
+title: "TP Daily Blog"
+description: "Ghi chép mỗi ngày"
+author: "phat8507"
+email: ""                 # có thì điền, không thì để trống
+lang: vi
+timezone: Asia/Ho_Chi_Minh
+
+# --- URL cho project page ---
+url: "https://phat8507.github.io"
+baseurl: "/tpdailyblog"
+
+# --- Hamilton options ---
+skin: midnight            # daylight | sunrise | sunset | midnight
+avatar: /assets/avatar.png
+
+# --- Blog behavior ---
+paginate: 10
+permalink: /:year/:month/:day/:title/

@@ -7,9 +7,9 @@ plugins:
 remote_theme: ngzhio/jekyll-theme-hamilton
 
 # --- Site info ---
-title: "TP Daily Blog"
-description: "Ghi chép mỗi ngày"
-author: "phat8507"
+title: "Phat's Journal"
+description: "Đây là website ghi lại tất cả những gì của Phát, mọi thứ sẽ update lên đây, nếu rảnh"
+author: "Phat Nguyen"
 email: ""                 # có thì điền, không thì để trống
 lang: vi
 timezone: Asia/Ho_Chi_Minh

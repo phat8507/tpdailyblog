@@ -16,7 +16,7 @@ url: "https://phat8507.github.io"
 baseurl: "/tpdailyblog"
 
 skin: midnight
-avatar: /assets/avatar.png
+
 
 paginate: 10
 permalink: /:year/:month/:day/:title/

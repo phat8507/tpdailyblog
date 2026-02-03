@@ -4,7 +4,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-remote_theme: ngzhio/jekyll-theme-hamilton
+remote_theme: zivong/jekyll-theme-hamilton
 
 # --- Site info ---
 title: "Phat's Journal"

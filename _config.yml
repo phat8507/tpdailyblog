@@ -1,4 +1,10 @@
+title: tp daily blog
+description: Minimal daily journal
+
 theme: dev-portfolio-blog
 
 url: "https://phat8507.github.io"
 baseurl: "/tpdailyblog"
+
+timezone: Asia/Ho_Chi_Minh
+permalink: /:year/:month/:day/:title/

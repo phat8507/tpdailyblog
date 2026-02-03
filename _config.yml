@@ -1,4 +1,3 @@
-# --- Theme ---
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
@@ -6,22 +5,18 @@ plugins:
 
 remote_theme: zivong/jekyll-theme-hamilton
 
-# --- Site info ---
 title: "Phat's Journal"
 description: "Đây là website ghi lại tất cả những gì của Phát, mọi thứ sẽ update lên đây, nếu rảnh"
 author: "Phat Nguyen"
-email: ""                 # có thì điền, không thì để trống
+email: ""
 lang: vi
 timezone: Asia/Ho_Chi_Minh
 
-# --- URL cho project page ---
 url: "https://phat8507.github.io"
 baseurl: "/tpdailyblog"
 
-# --- Hamilton options ---
-skin: midnight            # daylight | sunrise | sunset | midnight
+skin: midnight
 avatar: /assets/avatar.png
 
-# --- Blog behavior ---
 paginate: 10
 permalink: /:year/:month/:day/:title/
